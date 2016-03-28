@@ -1,6 +1,5 @@
 # bc-git-workshop
 
-Hello world. I would to add this to the readme.
+**NOTE: This repository was used as part of a git workshop I conducted at Broward College.**
 
-
-Here is more text.
+**Slides can be found at the following URL: [https://drive.google.com/file/d/0B0p8fCD7U1C6WElLRW5UVEEwb3c/view?usp=sharing](https://drive.google.com/file/d/0B0p8fCD7U1C6WElLRW5UVEEwb3c/view?usp=sharing)**
